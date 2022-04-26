@@ -6,5 +6,5 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
 add_subdirectory(useEigen)
 add_subdirectory(useGeometry)
-# add_subdirectory(visualizeGeometry)
+add_subdirectory(visualizeGeometry)
 add_subdirectory(examples)
